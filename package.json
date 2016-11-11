@@ -1,10 +1,12 @@
 {
   "name": "case-keep-replace",
   "main": "./lib/case-keep-replace",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace string with original case",
   "keywords": [
-    "replace", "case", "keep"
+    "replace",
+    "case",
+    "keep"
   ],
   "activationCommands": {
     "atom-workspace": "case-keep-replace:toggle"
@@ -14,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
