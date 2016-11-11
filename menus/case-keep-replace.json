@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "CaseKeep replace",
+          "submenu": [
+            {
+              "label": "Replace",
+              "command": "case-keep-replace:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
