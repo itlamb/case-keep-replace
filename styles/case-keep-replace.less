@@ -5,8 +5,21 @@
 @import "ui-variables";
 
 .case-keep-replace {
-  .input-text {
-    width: 25%;
-    margin: 5px;
+  display: flex;
+  flex-direction: column;
+
+  .form {
+    display: flex;
   }
+
+  .input-text {
+    flex-grow: 3;
+    width: inherit;
+  }
+
+  .btn {
+    flex-grow: 2;
+  }
+
+
 }
