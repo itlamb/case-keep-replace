@@ -2,11 +2,11 @@
   "name": "case-keep-replace",
   "main": "./lib/case-keep-replace",
   "version": "0.2.0",
-  "description": "Replace string with original case",
+  "description": "Replace string but keep original letter case",
   "keywords": [
     "replace",
     "case",
-    "keep"
+    "find-and-replace"
   ],
   "activationCommands": {
     "atom-workspace": "case-keep-replace:toggle"
