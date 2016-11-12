@@ -1,3 +1,6 @@
+## 0.3.0
++ Added closing by ESC
+
 ## 0.2.0
 + Added dynamic preview
 
