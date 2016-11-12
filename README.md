@@ -6,19 +6,23 @@ With this package you can replace given string with another, but preserve its or
 
 With this code:
 
-    function testCase() {
-      const TESTCASE = 'TestCase'
-      
-      return TESTCASE
-    }
+```javascript
+function testCase() {
+  const TESTCASE = 'TestCase'
+  
+  return TESTCASE
+}
+```
 
 If you replace **testCase** to **newCase** you will get:
 
-    function newCase() {
-      const NEWCASE = 'NewCase'
-      
-      return NEWCASE
-    }
+```javascript
+function newCase() {
+  const NEWCASE = 'NewCase'
+  
+  return NEWCASE
+}
+```
     
 The case-keep-replace package will do three replacements:
 
