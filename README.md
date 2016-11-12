@@ -2,6 +2,8 @@
 
 With this package you can replace given string with another, but preserve its original case.
 
+Default keyboard shortcut: `ctrl`+`cmd`+`r`
+
 **Example**
 
 With this code:
