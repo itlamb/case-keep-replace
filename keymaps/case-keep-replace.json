@@ -1,6 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-cmd-r": "case-keep-replace:toggle",
-    "escape": "case-keep-replace:close"
+    "ctrl-cmd-r": "case-keep-replace:toggle"
   }
 }
