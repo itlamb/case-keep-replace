@@ -14,8 +14,15 @@
   }
 
   .input-text {
-    flex-grow: 3;
-    width: inherit;
+    flex-grow: 1;
+
+    &:first-child {
+      margin-right: 5px;
+    }
+
+    &:last-child {
+      margin-left: 5px;
+    }
   }
 
   .preview {
@@ -24,7 +31,7 @@
   }
 
   .btn {
-    flex-grow: 2;
+    cursor: auto;
     float: none;
   }
 }
