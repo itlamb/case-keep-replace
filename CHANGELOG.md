@@ -1,3 +1,7 @@
+## 0.4.0
+~ Change BottomPanel to ModalPanel
++ Execute by Enter
+
 ## 0.3.0
 + Added closing by ESC
 
