@@ -1,7 +1,7 @@
 {
   "name": "case-keep-replace",
   "main": "./lib/case-keep-replace",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Replace string but keep original letter case",
   "keywords": [
     "replace",
