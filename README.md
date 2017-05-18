@@ -31,3 +31,4 @@ The case-keep-replace package will do three replacements:
 1. Replace var-like strings: **testCase** -> **newCase**
 1. Replace class-like strings: **TestCase** -> **NewCase**
 1. Replace const-like strings: **TESTCASE** -> **NEWCASE**
+1. Replace underscored-const-like strings: **TEST_CASE** -> **NEW_CASE**
