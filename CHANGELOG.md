@@ -1,3 +1,6 @@
+## 0.6.0
++ Replace underscored names
+
 ## 0.5.0
 + Replace in selection
 ~ Wrap all replacements in single transaction
