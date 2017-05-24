@@ -26,7 +26,7 @@ function newCase() {
 }
 ```
     
-The case-keep-replace package will do three replacements:
+The case-keep-replace package will do four replacements:
 
 1. Replace var-like strings: **testCase** -> **newCase**
 1. Replace class-like strings: **TestCase** -> **NewCase**
