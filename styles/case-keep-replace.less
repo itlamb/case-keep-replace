@@ -15,6 +15,7 @@
 
   .input-text {
     flex-grow: 1;
+    color: @text-color-error;
 
     &:first-child {
       margin-right: 5px;
@@ -26,12 +27,13 @@
   }
 
   .preview {
-    display: block;
-    text-align: center;
-  }
+    display: flex;
+    flex-direction: column;
 
-  .btn {
-    cursor: auto;
-    float: none;
+    .btn {
+      outline: none;
+      cursor: auto;
+      flex-frow: 1;
+    }
   }
 }
